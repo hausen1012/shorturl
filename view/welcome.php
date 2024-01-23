@@ -27,7 +27,6 @@
                 <a class="nav-item nav-link active" href="/"><?php echo __('GENERATE') ?> <span class="sr-only">(current)</span></a>
                 <a class="nav-item nav-link"
                    href="https://github.com/ellermister/shorturl"><?php echo __('GITHUB') ?></a>
-                <a class="nav-item nav-link" href="https://github.com/ellermister"><?php echo __('ABOUT') ?></a>
             </div>
         </div>
     </nav>
